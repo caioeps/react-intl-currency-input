@@ -1,5 +1,5 @@
 {
-  "name": "react-intl-currency-input",
+  "name": "react-intl-currency-input-fork",
   "version": "0.2.0",
   "description": "A React component for i18n currency input using the Intl API.",
   "main": "dist/index.js",
